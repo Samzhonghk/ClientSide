@@ -1,0 +1,8 @@
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\bin\Debug\ClientSide.exe.config
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\bin\Debug\ClientSide.exe
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\bin\Debug\ClientSide.pdb
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\obj\Debug\ClientSide.Form1.resources
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\obj\Debug\ClientSide.exe
+c:\Users\Samzhong\documents\visual studio 2013\Projects\24\ClientSide\obj\Debug\ClientSide.pdb
